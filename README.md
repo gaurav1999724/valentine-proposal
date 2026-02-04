@@ -8,9 +8,9 @@ A single-page romantic and playful Valentine proposal website — cute, crazy, a
 
 | **Initial view** | **After "YES"** |
 |------------------|------------------|
-| [![Initial](https://via.placeholder.com/400x280/ff9a9e/c0392b?text=Will+You+Be+My+Valentine%3F+%E2%9D%A4%EF%B8%8F)](preview.png) | [![Success](https://via.placeholder.com/400x280/fecfef/8e44ad?text=Yayyy%21+%F0%9F%92%95)](preview-yes.png) |
+| ![Initial view](https://via.placeholder.com/420x280/ff9a9e/ffffff?text=Will+You+Be+My+Valentine) | ![Success view](https://via.placeholder.com/420x280/fecfef/8e44ad?text=Yayyy!+Happiest+Person+Alive) |
 
-*Replace with real screenshots: add `preview.png` (initial screen) and `preview-yes.png` (after YES) to the repo to show the actual view.*
+*For the real look, open the [Live Demo](#-live-demo) or run the app. You can also add screenshots as `preview.png` and `preview-yes.png` to replace these placeholders.*
 
 ### 🎬 Live Demo
 
